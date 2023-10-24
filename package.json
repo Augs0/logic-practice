@@ -1,0 +1,12 @@
+{
+  "name": "logic-practice",
+  "version": "1.0.0",
+  "description": "This repo is to store various tasks I attempt to improve my logic skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "August",
+  "license": "ISC"
+}
